@@ -1,4 +1,4 @@
 index.html
 
 cambio de vida
-mañana nos enfocaremos en su vida
+este es el cambio cuando use el checkout y el commit
