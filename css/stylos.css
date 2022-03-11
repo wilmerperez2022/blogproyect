@@ -15,6 +15,13 @@ body{
 
 #container h1{
 font-size: 40px;
-  
+  }
 
+#cabecera{
+  color:white;
+    background-color: #33a;
+    box-shadow: opx 2px 20px 0px rgba(0, 0, 0, 0.5);
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5rem;
 }
