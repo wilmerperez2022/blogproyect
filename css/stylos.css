@@ -36,3 +36,9 @@ justify-content:left;
   position: absolute;
   right: 600px;
 }
+}#footerparrafo{
+  color:red;
+  font-weight:100;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;padding: 1rem;
+}
+footer{background-color: bisque;}
