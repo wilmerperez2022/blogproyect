@@ -25,3 +25,14 @@ font-size: 40px;
     margin: 0;
     padding: 0.5rem;
 }
+
+img{
+  width: 2rem;
+}
+#logocabecera{display: flex;
+justify-content:left;
+}
+#titulo_cabecera{
+  position: absolute;
+  right: 600px;
+}
