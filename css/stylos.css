@@ -25,3 +25,20 @@ font-size: 40px;
     margin: 0;
     padding: 0.5rem;
 }
+
+img{
+  width: 2rem;
+}
+#logocabecera{display: flex;
+justify-content:left;
+}
+#titulo_cabecera{
+  position: absolute;
+  right: 600px;
+}
+}#footerparrafo{
+  color:red;
+  font-weight:100;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;padding: 1rem;
+}
+footer{background-color: bisque;}
