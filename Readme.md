@@ -7,6 +7,8 @@ Markdown);
 - Support AMD/CMD (Require.js & Sea.js) Module Loader, and Custom/define editor plugins;
 -Este es un nuevo texto, hecho por wilmer.
 
+-Contiene ejemplos en Windows
+-Disponibles
 # Editor.md
 
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
