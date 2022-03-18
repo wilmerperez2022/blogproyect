@@ -6,6 +6,7 @@ Markdown);
 - Support TeX (LaTeX expressions, Based on KaTeX), Flowchart and Sequence Diagram of Markdown extended syntax;
 - Support AMD/CMD (Require.js & Sea.js) Module Loader, and Custom/define editor plugins;
 -Este es un nuevo texto, hecho por wilmer.
+-Este es un nuevo texto, hecho por wilmer2
 
 -Contiene ejemplos en Windows
 -Disponibles
